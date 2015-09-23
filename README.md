@@ -57,7 +57,7 @@ You are now ready to start webdev for real!
 
 ##3) Code
 
-  <br>![](docs/img/square.png) 3.0)  In Terminal run:  ```atom .``` For Windows, just open up atom and open the folder that you just made.  
+  <br>![](docs/img/square.png) 3.0)  In Terminal run:  ```atom .``` For Windows, just open up atom and use 'Add Project Folder' and select the cloned directory from above.  
 
 This will open the current folder into the Atom text editor. Note the folder structure.  What are you reading now (in browser) is actually a [markdown](https://guides.github.com/features/mastering-markdown/) file: **README.md**. 
 
